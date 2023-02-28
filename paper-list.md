@@ -4,9 +4,8 @@
 
 [awesome-generative-retrieval-models](https://github.com/Chriskuei/awesome-generative-retrieval-models) 
 
-- 
 
-- [CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks](https://arxiv.org/abs/2208.07652). *Chen et al.*, CIKM 2022. [[Code](https://github.com/ict-bigdatalab/CorpusBrain)] 
+
 - [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/abs/2206.02743). *Wang et al.*, Arxiv 2022. (**NCI**)
 - [Autoregressive Entity Retrieval](https://arxiv.org/pdf/2010.00904.pdf). *Cao et al*, ICLR 2021. [[Code](https://github.com/facebookresearch/GENRE)] (**GENRE**)
 - [DynamicRetriever: A Pre-training Model-based IR System with Neither Sparse nor Dense Index](https://arxiv.org/pdf/2203.00537.pdf). *Zhou et al*, Arxiv 2022. (**DynamicRetriever**)
